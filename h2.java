@@ -5,6 +5,8 @@ public class h2{
 	int count;
 	public void showinfo(){
 		System.out.println(no+name+price+count);
+System.out.println("”≈ªØ");
+
 	}
 	
 }
